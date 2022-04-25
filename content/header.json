@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "+De 2096 Pedidos Entregues em 2021!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#008000",
+    "color": "#ff7f00"
   },
   "contacts_stripe": {
     "pages": [
