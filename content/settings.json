@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/duoplace",
   "logo": "/img/uploads/logo-menor.duoplace.png",
   "name": "duoplace",
-  "short_name": "duoplace",
+  "short_name": "Duo Place",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/f-duoplace.png",
   "store_id": 51255,
-  "description": "duoplace",
+  "description": "Duo Place",
   "large_icon": "/img/large-icon.png"
 }
