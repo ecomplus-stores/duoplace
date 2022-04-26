@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f78c90114e5ff217ca9d5805eabffb7a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.00f57df5768cfe6a110a930fc1f2d0a3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1259119a51002ba4eabf37d87a74ee97.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Duo Place",
+  "short_name": "Duo Place",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Assistência profissional para uma experiência de compra com qualidade.",
+  "background_color": "#ffffff",
+  "theme_color": "#b56700"
+}
