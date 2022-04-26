@@ -53,9 +53,8 @@
       "collection_id": "626710913da6d37bc20b7acd:categories:ACESSÓRIOS E TECNOLOGIA:/acessorios-tecnologia"
     },
     {
-      "type": "page-title",
-      "title": "Duo Place | Descontos Incríveis Entrega para Todo o Brasil",
-      "description": ""
+      "type": "responsive-banner",
+      "img": "/img/uploads/jbl3tecvirtual.png"
     }
   ]
 }
