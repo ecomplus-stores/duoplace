@@ -36,6 +36,13 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
+      "collection_id": "6269ad9d3da6d37bc210fab8:categories:FUNKO:/funko"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
       "collection_id": "62670df13da6d37bc20b70ec:categories:JBL & ÁUDIO:/jbl--audio"
     },
     {
