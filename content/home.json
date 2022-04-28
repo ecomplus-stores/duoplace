@@ -8,12 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/play.png",
-          "link": "https://www.duoplace.com.br/games",
-          "alt": "Games",
+          "img": "/img/uploads/funkooduoplace.png",
+          "link": "https://www.duoplace.com.br/funko",
+          "alt": "",
           "start": "2022-04-27T16:09:07.153Z",
           "end": "2022-07-01T03:00:00.000Z",
-          "mobile_img": "/img/uploads/play.png"
+          "mobile_img": "/img/uploads/funkooduoplace.png"
         }
       ]
     },
