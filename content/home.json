@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/funkooduoplace.png",
@@ -14,6 +14,13 @@
           "start": "2022-04-27T16:09:07.153Z",
           "end": "2022-07-01T03:00:00.000Z",
           "mobile_img": "/img/uploads/funkooduoplace.png"
+        },
+        {
+          "start": "2022-04-28T23:10:37.150Z",
+          "end": "2022-06-01T23:10:37.176Z",
+          "img": "/img/uploads/az-platinum.jpeg",
+          "link": "https://www.duoplace.com.br/azamerica_platinum_gx_pro_4k_ultra_hd_wifi_acm_oferta_limitada",
+          "mobile_img": "/img/uploads/az-platinum.jpeg"
         }
       ]
     },
