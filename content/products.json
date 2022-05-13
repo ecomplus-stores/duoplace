@@ -27,6 +27,11 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/consultor-duoplace.jpeg",
+      "link": "https://api.whatsapp.com/send/?phone=5541991049703&text=Ol%C3%A1%21+Agradecemos+seu+contato+e+logo+responderemos&app_absent=0"
     }
   ]
 }
