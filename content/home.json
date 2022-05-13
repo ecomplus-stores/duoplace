@@ -71,6 +71,11 @@
       "img": "/img/uploads/jbl3tecvirtual.png"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/consultor-duoplace.jpeg",
+      "link": "https://api.whatsapp.com/send/?phone=5541991049703&text=Ol%C3%A1%21+Agradecemos+seu+contato+e+logo+responderemos&app_absent=0"
+    },
+    {
       "type": "custom-html",
       "html": "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\">\n<a href=\"https://wa.me/5541991049703?text=Olá! Agradecemos seu contato e logo responderemos\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\n  z-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fa fa-whatsapp\"></i>\n</a>"
     }
