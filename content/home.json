@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-05-14T01:31:51.783Z",
+          "end": "2022-11-02T01:29:50.421Z",
+          "img": "/img/uploads/tv-s-box-duoplace.png",
+          "link": "https://www.duoplace.com.br/404?url=%2Ftv-box-iptv",
+          "mobile_img": "/img/uploads/tv-s-box-duoplace.png"
+        },
+        {
           "start": "2022-04-28T23:10:37.150Z",
           "end": "2022-08-01T23:10:37.176Z",
           "img": "/img/uploads/frete-duoplace.png",
@@ -21,13 +28,6 @@
           "start": "2022-04-27T16:09:07.153Z",
           "end": "2022-07-01T03:00:00.000Z",
           "mobile_img": "/img/uploads/zero-ra-duo-place.png"
-        },
-        {
-          "start": "2022-05-14T01:31:51.783Z",
-          "end": "2022-11-02T01:29:50.421Z",
-          "img": "/img/uploads/tv-s-box-duoplace.png",
-          "link": "https://www.duoplace.com.br/404?url=%2Ftv-box-iptv",
-          "mobile_img": "/img/uploads/tv-s-box-duoplace.png"
         }
       ]
     },
